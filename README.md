@@ -1,5 +1,8 @@
 # EnableTrackPoint
 
+* Update by Nov-7-2017
+From fedora-25, the system support "IBM TrackPoint". So we don't need change anything.
+
 X1 Carbon - fedora22
  * add bashrc.conf.x1-fedora22 to ~/.bashrc
  * re-login
